@@ -1,2 +1,3 @@
 # search
-A small trie-based search index builder
+
+This has been moved to my [mono(ish) repo](https://github.com/kevinfrei/packages.git).
